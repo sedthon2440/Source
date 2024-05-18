@@ -8,9 +8,9 @@ async def main():
   await app.start()
   await bot.start()
   try :
-    await app.join_chat("R3_QX")
-    await app.join_chat("RQ_SF")
-    await app.join_chat("R7_QX")
+    await app.join_chat("veevvw")
+    await app.join_chat("veevvw")
+    await app.join_chat("veevvw")
   except :
     pass
   starkbot = await bot.get_me()
